@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "email",
+  "config_description": "--Reach Independent Inboxes--\n\nWeekly verified, high-deliverability emails.\n\nOnly for established, independent restaurants (or micro-chains) \u2013 large chain enterprises excluded.\n\nWeekly email verification and detailed analysis via our proprietary infrastructure.\n\nBusiness activity validated by an \"Active Heartbeat\" signal.",
+  "config_name": "Restaurant Verified Email Access in Michigan, US",
+  "export_job_id": "40eaa5a9-720c-46fb-a161-4d2a79481d69",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 234321,
+  "location_name": "Michigan",
+  "location_type": "state",
+  "repo_name": "restaurant-verified-email-access-in-michigan-us-sample-234321",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/234321/beamstation_234321_restaurants-us-mi_SAMPLE_DIST.csv",
+  "sample_pct": 0.51,
+  "sample_records": 10,
+  "sample_sha256": "c2fe64da0f7d5ba675be699dc090d0dcb172295f0af249f310158b9d1c55b6f3",
+  "sample_size_bytes": 58117,
+  "total_records": 1967,
+  "updated_at": "2026-04-01T01:22:00.070636+00:00"
+}
