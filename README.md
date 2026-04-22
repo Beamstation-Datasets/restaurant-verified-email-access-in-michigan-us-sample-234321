@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Michigan, US
 
-> Free BeamStation sample export with 357 rows and masked direct-contact fields.
+> Free BeamStation sample export with 275 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `234321` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 3,571 records |
-| Free sample size | 357 records (10.0%) |
-| Last export | 2026-04-15T03:34:25.101519+00:00 |
+| Full dataset size | 2,755 records |
+| Free sample size | 275 records (9.98%) |
+| Last export | 2026-04-22T09:02:15.933424+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-michigan-us-sample-234321/releases/download/sample-latest/beamstation_234321_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
