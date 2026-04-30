@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0a65b666-91ba-4415-8914-d1e13e53bef8",
+  "export_job_id": "993eac4a-0845-4e90-b31d-33ed373c78d3",
   "id_short": 234321,
-  "published_at": "2026-04-22T19:25:17Z",
+  "published_at": "2026-04-30T07:09:45Z",
   "repo_name": "restaurant-verified-email-access-in-michigan-us-sample-234321",
   "sample_asset_name": "beamstation_234321_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/234321/beamstation_234321_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 275,
-  "sample_sha256": "2426c973422ec3544b49a6c61019a79be1d1335e5b02d99a50b7b179edd6e257",
-  "sample_size_bytes": 1080391,
-  "total_records": 2755
+  "sample_records": 360,
+  "sample_sha256": "324b381a59a9ef6375c29b13950575e8011db76d32c00781b4ca4f179c1b3a26",
+  "sample_size_bytes": 1347456,
+  "total_records": 3605
 }
